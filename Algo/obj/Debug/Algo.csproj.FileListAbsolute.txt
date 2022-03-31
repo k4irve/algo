@@ -1,0 +1,8 @@
+D:\VisualProjects\Algo\Algo\obj\Debug\Algo.csproj.AssemblyReference.cache
+D:\VisualProjects\Algo\Algo\obj\Debug\Algo.csproj.SuggestedBindingRedirects.cache
+D:\VisualProjects\Algo\Algo\obj\Debug\Algo.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Algo\Algo\bin\Debug\Algo.exe.config
+D:\VisualProjects\Algo\Algo\bin\Debug\Algo.exe
+D:\VisualProjects\Algo\Algo\bin\Debug\Algo.pdb
+D:\VisualProjects\Algo\Algo\obj\Debug\Algo.exe
+D:\VisualProjects\Algo\Algo\obj\Debug\Algo.pdb
